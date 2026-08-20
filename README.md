@@ -2,6 +2,8 @@
 
 # below is their entire websites API docs so u can use their admin panel freely, also posted update_loader.lua.py. which updates the https://prey.wtf/loader.lua so you can rat their users.
 
+## Full credits to @ecco2ked for the help, and @whispernote for the tools.
+
 # Prey.Wtf website documentation, documented from our dump.
 
 # Prey.Wtf API Reference
